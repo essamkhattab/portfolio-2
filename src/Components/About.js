@@ -50,7 +50,6 @@ class About extends Component {
                 <p>
                   <a href={resumeDownload} className="button">
                     <i className="fa fa-download"></i>
-                    https://drive.google.com/file/d/1kK7sHDuD6G4T7tdJQNsITjFfsaCq7Rr1/view?usp=sharing
                   </a>
                 </p>
               </div>
